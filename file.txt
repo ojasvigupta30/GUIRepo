@@ -1,2 +1,2 @@
-Hello. This is new world.
-Say goodbye to old world.
+Hello. This is a new world.
+Say goodbye to the old world.
